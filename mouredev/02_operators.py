@@ -40,3 +40,5 @@ print(len("aaaa") >= len("aaaa"))# Compara, cuenta caracteres --> True
 
 ### Operadores Logicos ###
 
+print("\nOperadores Logicos")
+
