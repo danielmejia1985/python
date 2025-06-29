@@ -40,5 +40,24 @@ print(len("aaaa") >= len("aaaa"))# Compara, cuenta caracteres --> True
 
 ### Operadores Logicos ###
 
+"""
+
+En Python, la lógica booleana se basa en dos valores: True (verdadero) y False (falso). Estos valores se utilizan para evaluar expresiones lógicas y tomar decisiones en el código. Python proporciona los siguientes 3 operadores lógicos para combinar(and), invertir(not) o comparar(or) expresiones booleanas.
+
+1.- and --> Devuelve True si ambas expresiones son True
+2.- not --> Invierte el valor booleano de una expresión
+3.- or --> Devuelve True si al menos una de las expresiones es True
+  
+
+Concepto clave: El tipo de dato bool eb Python representa valores de verdad, ya sean True o False
+
+Es importante entender la logica booleana el cual rige toda la programación
+
+Uso en Estructuras de Control:
+Los booleanos sonfundamentales para las estructuras if, while, y for, permitiendo ejecutar bloques de código condicionalmente
+
+EN RESUMEN: la lógica booleana en Python es esencial para el control de flujo y la toma de decisiones en la programación. Los valores True y False, junto con los operadores lógicos, permiten construir expresiones complejas y evaluar condiciones para ejecutar diferentes partes del código.
+"""
+
 print("\nOperadores Logicos")
 
