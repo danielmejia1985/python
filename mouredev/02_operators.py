@@ -61,3 +61,4 @@ EN RESUMEN: la lógica booleana en Python es esencial para el control de flujo y
 
 print("\nOperadores Logicos")
 
+
