@@ -1,0 +1,4 @@
+Las siguientes líenas de código se escriben en el principio del documento Python,  esto para cada vez que corramos el programa o documento py, este en automatico limpie la consola o la terminal en cada ejecución.
+
+import os
+os.system("clear")
