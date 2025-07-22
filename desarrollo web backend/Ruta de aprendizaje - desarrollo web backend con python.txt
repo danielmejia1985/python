@@ -1,0 +1,129 @@
+Ruta de aprendizaje para: Desarrollador Web Backend con Python.
+
+ 1. Fundamentos de Python
+Si ya sabes lo básico, puedes avanzar. Si no, empieza aquí:
+
+🎓 Curso gratuito:
+🔗 Curso de Python – CódigoFacilito (YouTube)
+
+📘 Aprende:
+
+Variables, funciones, listas
+
+Estructuras de control (if, while, for)
+
+Diccionarios, clases y módulos
+
+🟨 2. Introducción a Flask (Microframework ligero)
+🎓 Curso gratuito:
+🔗 Curso Flask desde cero – Hola Mundo
+
+📘 Aprende:
+
+Crear rutas (@app.route)
+
+Usar plantillas HTML con Jinja2
+
+Manejar formularios (GET y POST)
+
+Crear una app básica
+
+✅ Proyecto: Blog personal básico
+
+🟧 3. Bases de datos + SQLAlchemy
+🎓 Curso gratuito:
+🔗 Flask + SQLite + SQLAlchemy (Fazt)
+
+📘 Aprende:
+
+Conexión con SQLite (o PostgreSQL/MySQL)
+
+Crear modelos (clases → tablas)
+
+Guardar y consultar datos
+
+CRUD (Create, Read, Update, Delete)
+
+✅ Proyecto: Gestor de tareas con base de datos
+
+🟥 4. Autenticación de usuarios
+🎓 Tutorial:
+🔗 Flask Login System – English (Pretty Printed)
+
+📘 Aprende:
+
+Registro y login de usuarios
+
+Manejo de sesiones (flask_login)
+
+Seguridad con contraseñas (werkzeug.security)
+
+✅ Proyecto: App con login y panel de usuario
+
+🟦 5. APIs REST con Flask
+🎓 Curso (en inglés):
+🔗 Build a REST API with Flask (freeCodeCamp)
+
+📘 Aprende:
+
+Crear endpoints tipo /api/users
+
+Enviar y recibir JSON
+
+Métodos GET, POST, PUT, DELETE
+
+Probar con Postman o curl
+
+✅ Proyecto: API para productos o usuarios
+
+🟪 6. Despliegue en Internet
+🎓 Tutorial gratuito:
+🔗 Deploy Flask App on Render (YouTube)
+
+📘 Aprende:
+
+Git + GitHub
+
+Crear cuenta en https://render.com
+
+Subir y publicar tu app Flask
+
+✅ Proyecto: Publica tu gestor de tareas o blog
+
+🧰 Herramientas recomendadas
+VS Code
+
+Git y GitHub
+
+Postman
+
+SQLite / PostgreSQL
+
+Render o Heroku (hosting gratuito)
+
+🔥 Siguiente nivel: Django
+Cuando tengas confianza con Flask, puedes pasar a Django, un framework más completo (ideal para apps grandes, admin panel, ORM avanzado).
+
+🎓 Curso Django desde cero:
+🔗 Curso Django – Dalto (YouTube)
+
+✅ ¿Y después qué?
+Haz 2 o 3 proyectos reales y súbelos a GitHub
+
+Crea tu portafolio web
+
+Aplica a trabajos remotos en:
+
+LinkedIn
+
+We Work Remotely
+
+Freelancer
+
+Upwork
+
+Toptal (si tienes experiencia)
+
+
+
+
