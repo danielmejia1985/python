@@ -10,8 +10,7 @@ for i in range(1, 10, 1):
     elif i == 6:
         print("seis")
         #continue
-    else:
-        print("else")
+    
     
     print(i)
 
