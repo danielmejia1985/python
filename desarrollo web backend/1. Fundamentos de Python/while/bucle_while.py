@@ -52,3 +52,16 @@ while x > 0:
     x -= 1
 else:
     print("¡Cuenta regresiva finalizada!")
+
+
+
+
+# Ejemplo 5: Contador con sentencia continue para saltar pares.
+# En este ejemplo inicializamos la variable numero con cero y la comparamos en la codición del bucle while si es menor que 10 mientras sea cierto es decir True, se estara ejecutando el cuerpo del bucle y le sumana 1 a dicha variable seguido condicionara con un if si la división de numero entre 2 su residuo es cero si es cierto decimos que si ese residuo es igual a cero y si es cierto osea True se ejecutara el cuerpo de la sentencia if y dicha iteración es un número par, el proposito de continue es que si ese valor o iteración es par se ignorara y pasara a la siguiente iteración pasando por fuera del if e imprimiendo solo valores impares.
+numero = 0
+
+while numero < 10:
+    numero += 1
+    if numero % 2 == 0:
+        continue
+    print("Número impar:", numero)

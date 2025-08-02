@@ -1,2 +1,1 @@
-elif i == "E":
-        print(i)
+indice % 2
